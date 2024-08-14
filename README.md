@@ -18,6 +18,12 @@ You can run your application in dev mode that enables live coding using:
 
 The application can be packaged using:
 
+
+
+
+
+
+
 ```shell script
 ./mvnw package
 ```
